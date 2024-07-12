@@ -1,10 +1,10 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Eyobed Abreham';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `MERN Stack Developer | AI Enthusiast | Blockchain `;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
+  Residence: 'Ethiopia',
+  City: 'Addis Ababa',
   Age: '23',
 };
 
@@ -25,10 +25,7 @@ export const SKILLS = [
     title: 'Backend Developer',
     level: '54%',
   },
-  {
-    title: 'Technical Blogger',
-    level: '83%',
-  },
+
 ];
 
 export const TECH_STACK = [
@@ -38,11 +35,8 @@ export const TECH_STACK = [
   'TypeScript',
   'NodeJS',
   'Redux',
-  'Zustand',
   'CSS',
-  'SCSS',
   'TailwindCSS',
-  'Ant Design',
   'Material UI',
   'Next UI',
   'REST API',
@@ -52,16 +46,15 @@ export const TECH_STACK = [
   'GitHub',
   'Jira',
   'Figma',
-  'Adobe XD',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'eyobedabreham9@gmail.com',
+  PHONE: '+251911870952',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
+  GITHUB: 'https://github.com/eyuuab',
   LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  TWITTER: 'https://www.linkedin.com/in/eyobed-abreham-30577a262/',
+  FACEBOOK: 'https://www.facebook.com',
 };
